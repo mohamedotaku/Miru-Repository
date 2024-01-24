@@ -1,5 +1,18 @@
 [
  {
+  "author": "medotaku",
+  "icon": "https://thunderscans.com/wp-content/uploads/2023/12/web-112.png",
+  "lang": "ar",
+  "license": "MIT",
+  "name": "ThunderScans",
+  "nsfw": "false",
+  "package": "thunderscans.com",
+  "type": "manga",
+  "url": "thunderscans.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://thunderscans.com"
+ },
+ {
   "author": "appdevelpo",
   "icon": "https://9animetv.to/images/favicon.png",
   "lang": "en",
